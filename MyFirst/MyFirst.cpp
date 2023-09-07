@@ -8,6 +8,6 @@ int main()
 	cin >> a >> b;
 	c = a + b;
 	cout << "Addition is :" << c;
-	test1
+	
 	return 0;
 }
